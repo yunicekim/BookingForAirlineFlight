@@ -1,0 +1,39 @@
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe.config
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.pdb
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csprojAssemblyReference.cache
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Form1.resources
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Properties.Resources.resources
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.GenerateResource.cache
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.exe
+C:\Users\yunic\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe.config
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csprojAssemblyReference.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Form1.resources
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Properties.Resources.resources
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.GenerateResource.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PC\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe.config
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.pdb
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csprojAssemblyReference.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Form1.resources
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Properties.Resources.resources
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.GenerateResource.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.exe
+C:\Users\Ykim0406\OneDrive - Conestoga College\Documents\CPA Level2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.pdb
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe.config
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\bin\Debug\YKimAssignment1.pdb
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csprojAssemblyReference.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Form1.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.Properties.Resources.resources
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.csproj.GenerateResource.cache
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.exe
+C:\Users\yunic\OneDrive\Documents\Study\School\Level 2\PCII\assignment\YKimAssignment1\YKimAssignment1\obj\Debug\YKimAssignment1.pdb
